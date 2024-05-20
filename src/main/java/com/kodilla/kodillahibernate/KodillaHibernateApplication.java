@@ -1,13 +1,13 @@
-package com.kodilla.kodillahibernate2;
+package com.kodilla.kodillahibernate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KodillaHibernate2Application {
+public class KodillaHibernateApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(KodillaHibernate2Application.class, args);
+        SpringApplication.run(KodillaHibernateApplication.class, args);
     }
 
 }
